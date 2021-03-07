@@ -1,0 +1,8 @@
+websockets==6.0
+discord
+discord.py[voice]>=1.5.1
+PyGithub
+pyssml
+oauth2client
+PyOpenSSL
+pymongo
